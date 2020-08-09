@@ -1,0 +1,16 @@
+#title {color: red;}
+.description {color: blue;}
+p1 {font-size: 150px;
+    font-weight: bold;
+    font-style: italic;
+    font-family: 'arial';}
+    button{background-color:red; padding:100px 300px;}
+button {font-size:150px;}
+button{color:white;}
+.box {background-color:silver; width:300px; height:100px; margin-bottom:30px;}
+span{display:block; font-size:30px;}
+.box{background-color:silver; width:300px; height:100px; margin-bottom:100px; position:relative; top:30px; left:40px;}
+.box1 {background-color: silver; width: 500px; height: 300px; float:left;}
+.box2 {background-color:black; width:500px; height:300px; float:right;}
+.box{background-color:silver; width:300px; height:300px;}
+.box2{background-color:black; width:100px; height:100px; position:absolute; top:30px; left:40px;}
